@@ -1,0 +1,12 @@
+{
+  "name": "long-polling-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ben Ellentuck <ellentuckben@gmail.com> (https://github.com/bellentuck)",
+  "license": "MIT"
+}
